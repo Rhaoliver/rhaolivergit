@@ -14,7 +14,7 @@ Até o momento, conhecimento básico em:
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhaoliver&repo=rhaoliver.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhaoliver&repo=site_loyalempire)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contatos
 
