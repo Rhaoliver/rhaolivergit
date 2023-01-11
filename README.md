@@ -22,7 +22,7 @@ Até o momento, conhecimento básico em:
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhaoliver&repo=site_loyalempire)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github.com/Rhaoliver/netflix.challenge.dio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhaoliver&repo=site_loyalempire)](https://github.com/Rhaoliver/netflix.challenge.dio)
 
 # Contatos
 
