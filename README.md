@@ -3,7 +3,12 @@
 # Biografia
 
 Bacharel em Medicina Veterinária pela FZMV/UFLA, tendo atuado na área durante o curso.
-Atualmente em transição de carreira, em processo de estudos através do curso de Desenvolvimeto Front End do Zero ao Pro pela EBAC - Escola Britânica de Artes Criativas.
+Atualmente em transição de carreira, em processo de estudos com os cursos:
+
+- Desenvolvimeto Front End do Zero ao Pro pela EBAC - Escola Britânica de Artes Criativas.
+- Bootcamp Orange Tech + | BackEnd - DIO
+- Cursos diversos | FrontEnd - DIO
+
 
 Até o momento, conhecimento básico em:
 
