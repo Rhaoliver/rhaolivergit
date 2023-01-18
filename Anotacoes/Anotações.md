@@ -7,16 +7,16 @@
 
 ### Bootcamp Orange Tech + | BackEnd | DIO
 
-- Trabalhando com branches no GitHub
-- Git e GitHub focado em PullRequest
-- Introdução à programação e pensamento computacional
-- Criando seu primeiro repositório no GitHub (revisão de conceitos apenas e prosseguimento com o bootcamp)
+[x] Trabalhando com branches no GitHub
+[x] Git e GitHub focado em PullRequest
+[x] Introdução à programação e pensamento computacional
+[x] Criando seu primeiro repositório no GitHub (revisão de conceitos apenas e prosseguimento com o bootcamp)
 
 ### Javascript | DIO
 
-- Introdução ao Javascript
-- Sintaxe básica em Javascript
-- Variáveis e Tipos com Javascript
+[x] Introdução ao Javascript
+[x] Sintaxe básica em Javascript
+[x] Variáveis e Tipos com Javascript
 
 
 ## Semana de 16 a 21 de janeiro/2022
@@ -32,7 +32,7 @@
 
 ### Bootcamp Formação CSS Web Developer
 
-- Fundamentos
-- Estilização básica
-- Unidades de medidas
+[x] Fundamentos
+[x] Estilização básica
+[x] Unidades de medidas
 - Desafio
